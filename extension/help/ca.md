@@ -6,7 +6,7 @@ lang: ca
 
 # Furigana Reader — Guia d'usuari
 
-> Versió: v2.0.0
+> Versió: v1.3.0
 
 ## Introducció
 

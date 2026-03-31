@@ -6,7 +6,7 @@ lang: hu
 
 # Furigana Reader - Felhasználói útmutató
 
-> Verzió: v2.0.0
+> Verzió: v1.3.0
 
 ## Bevezetés
 

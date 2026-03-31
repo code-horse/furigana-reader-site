@@ -6,7 +6,7 @@ lang: da
 
 # Furigana Reader - Brugervejledning
 
-> Version: v2.0.0
+> Version: v1.3.0
 
 ## Introduktion
 

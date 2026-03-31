@@ -6,7 +6,7 @@ lang: ro
 
 # Furigana Reader - Ghid de utilizare
 
-> Versiune: v2.0.0
+> Versiune: v1.3.0
 
 ## Introducere
 

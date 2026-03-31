@@ -6,7 +6,7 @@ lang: nl
 
 # Furigana Reader — Gebruikershandleiding
 
-> Versie: v2.0.0
+> Versie: v1.3.0
 
 ## Introductie
 

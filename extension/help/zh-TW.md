@@ -6,7 +6,7 @@ lang: zh-TW
 
 # Furigana Reader - 使用者指南
 
-> 版本：v2.0.0
+> 版本：v1.3.0
 
 ## 簡介
 

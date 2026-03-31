@@ -6,7 +6,7 @@ lang: ms
 
 # Furigana Reader — Panduan pengguna
 
-> Versi: v2.0.0
+> Versi: v1.3.0
 
 ## Pengenalan
 

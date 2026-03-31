@@ -6,7 +6,7 @@ lang: pl
 
 # Furigana Reader — Przewodnik użytkownika
 
-> Wersja: v2.0.0
+> Wersja: v1.3.0
 
 ## Wprowadzenie
 

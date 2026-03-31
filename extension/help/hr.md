@@ -6,7 +6,7 @@ lang: hr
 
 # Furigana Reader - Korisnički priručnik
 
-> Verzija: v2.0.0
+> Verzija: v1.3.0
 
 ## Uvod
 

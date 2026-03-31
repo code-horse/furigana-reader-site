@@ -6,7 +6,7 @@ lang: fi
 
 # Furigana Reader - Käyttöopas
 
-> Versio: v2.0.0
+> Versio: v1.3.0
 
 ## Johdanto
 

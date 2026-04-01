@@ -7,6 +7,12 @@ title: Furigana Reader
 
 A Japanese language learning tool with furigana annotations.
 
+## Mobile App
+
+- [Privacy Policy](./privacy-policy)
+- [Support](./support)
+- [Terms of Service](./terms-of-service)
+
 ## Browser Extension
 
 ### Help / User Guide

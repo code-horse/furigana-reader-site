@@ -6,7 +6,7 @@ lang: it
 
 # Furigana Reader - Guida utente
 
-> Versione: v1.4.0
+> Versione: v1.4.1
 
 ## Introduzione
 

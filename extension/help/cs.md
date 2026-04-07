@@ -6,7 +6,7 @@ lang: cs
 
 # Furigana Reader — Uživatelská příručka
 
-> Verze: v1.4.0
+> Verze: v1.4.1
 
 ## Úvod
 

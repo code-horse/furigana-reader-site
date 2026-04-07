@@ -6,7 +6,7 @@ lang: id
 
 # Furigana Reader — Panduan pengguna
 
-> Versi: v1.4.0
+> Versi: v1.4.1
 
 ## Pengantar
 

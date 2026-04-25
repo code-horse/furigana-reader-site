@@ -6,7 +6,7 @@ lang: tr
 
 # Furigana Reader — Kullanıcı Kılavuzu
 
-> Sürüm: v1.4.1
+> Sürüm: v1.4.3
 
 ## Giriş
 

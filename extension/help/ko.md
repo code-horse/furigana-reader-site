@@ -6,7 +6,7 @@ lang: ko
 
 # Furigana Reader - 사용자 안내
 
-> 버전: v1.4.1
+> 버전: v1.4.3
 
 ## 소개
 

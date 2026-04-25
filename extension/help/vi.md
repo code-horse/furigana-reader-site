@@ -6,7 +6,7 @@ lang: vi
 
 # Furigana Reader — Hướng dẫn sử dụng
 
-> Phiên bản: v1.4.1
+> Phiên bản: v1.4.3
 
 ## Giới thiệu
 

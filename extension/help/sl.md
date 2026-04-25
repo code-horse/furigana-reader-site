@@ -6,7 +6,7 @@ lang: sl
 
 # Furigana Reader - Uporabniški priročnik
 
-> Različica: v1.4.1
+> Različica: v1.4.3
 
 ## Uvod
 

@@ -5,9 +5,9 @@ title: Privacy Policy — Furigana Reader Extension
 
 # Privacy Policy — Furigana Reader Extension
 
-**Last updated**: April 7, 2026
+**Last updated**: April 13, 2026
 
-**Effective date**: April 7, 2026
+**Effective date**: April 13, 2026
 
 ---
 

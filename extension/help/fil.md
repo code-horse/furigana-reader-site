@@ -6,7 +6,7 @@ lang: fil
 
 # Furigana Reader - Gabay ng gumagamit
 
-> Bersyon: v1.4.1
+> Bersyon: v1.4.3
 
 ## Panimula
 

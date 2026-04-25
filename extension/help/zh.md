@@ -6,7 +6,7 @@ lang: zh
 
 # Furigana Reader - 用户指南
 
-> 版本：v1.4.1
+> 版本：v1.4.3
 
 ## 简介
 
